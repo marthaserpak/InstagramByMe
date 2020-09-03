@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstagramByMe</string>
+    <string name="user_name"><![CDATA[me&myInspiration]]></string>
+    <string name="home" />
+    <string name="search" />
+    <string name="share" />
+    <string name="likes" />
+    <string name="profile" />
+    <string name="edit_profile">Edit Profile</string>
+
+</resources>
